@@ -14,6 +14,7 @@ int main() {
 		cin >> parent;
 		if (parent) 
 			show="PG & G show.";
+		else
 			show="G show.";
 	}
 	else if (age<16) { 
